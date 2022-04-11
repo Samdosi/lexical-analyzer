@@ -1,11 +1,3 @@
-/*
- Anh Khoa Tran
- Mohammad Ali Dosi
- Michael Ha(Bao Gia Ha) 
- */
-
-
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <ctype.h>
